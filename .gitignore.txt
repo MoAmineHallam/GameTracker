@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.pkl
+
+# ML artifacts
+*.pt
+*.onnx
+runs/
+saved_models/
+stubs/
+output_videos/
+*.mp4
+*.avi
+
+# Visual Studio / WinForms
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db
