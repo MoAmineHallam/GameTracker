@@ -26,33 +26,32 @@ The focus is on analysis and experimentation, not deployment.
 
 ## Repository Structure
 
-.
-├── backend/
-│   ├── core/
-│   │   ├── tracker.py
-│   │   ├── team_assigner.py
-│   │   ├── player_ball_assigner.py
-│   │   ├── camera_movement_estimator.py
-│   │   ├── view_transformer.py
-│   │   ├── speed_and_distance_estimator.py
-│   │   └── utils.py
-│   ├── main.py
-│   ├── requirements.txt
-│   └── notebooks/
-│       └── football_training_yolo11_reproducible.ipynb
-│
-├── ui/
-│   ├── FinalProjectUI.sln
-│   └── FinalProjectUI/
-│
-├── assets/
-│   └── demo_images/
-│
-└── README.md
-     
+Repository Structure
 
-yaml
-Copy code
+/
+  GameTrackerCore/
+    tracker.py
+    team_assigner.py
+    player_ball_assigner.py
+    camera_movement_estimator.py
+    view_transformer.py
+    speed_and_distance_estimator.py
+    utils.py
+  main.py
+  requirements.txt
+  notebooks/
+    football_training_yolo11_reproducible.ipynb
+
+GameTrackerUI/
+  GameTrackerUI.sln
+  GameTrackerUI/
+  ...
+
+assets/
+  demo_images/
+
+README.md
+
 
 ---
 
