@@ -1,0 +1,36 @@
+# Videos / outputs / training artifacts
+*.mp4
+*.avi
+*.mkv
+*.mov
+runs/
+output/
+output_videos/
+stubs/
+
+# Python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDE junk
+.idea/
+.vscode/
+
+# Visual Studio build junk
+.vs/
+**/bin/
+**/obj/
+packages/
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# JetBrains
+.idea/
+
+# Videos / large files (optional)
+input videos/
+*.mp4
+*.avi
+*.mkv
