@@ -63,8 +63,7 @@ Create a Python environment and install dependencies:
 
 pip install -r backend/requirements.txt
 
-yaml
-Copy code
+
 
 Core dependencies include:
 
@@ -85,8 +84,7 @@ python backend/main.py
 --video path/to/input_video.mp4
 --output output/output.avi
 
-sql
-Copy code
+
 
 Optional arguments:
 
@@ -101,8 +99,7 @@ python backend/main.py
 --output output/annotated_match.avi
 --use-stubs
 
-yaml
-Copy code
+
 
 ---
 
@@ -126,8 +123,7 @@ Model training is documented in:
 
 backend/notebooks/football_training_yolo11_reproducible.ipynb
 
-yaml
-Copy code
+
 
 This notebook:
 
