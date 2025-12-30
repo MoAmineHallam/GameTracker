@@ -7,6 +7,12 @@ The system integrates a YOLO-based detector with tracking, camera motion compens
 The project is designed to be modular, reproducible, and research-oriented rather than a production or real-time system.
 
 ---
+## 🎥 Demo
+
+▶️ Click to watch the demo video:
+
+https://github.com/MoAmineHallam/GameTracker/releases/download/v0.1-demo/demo.mp4
+
 
 ## Project Overview
 
