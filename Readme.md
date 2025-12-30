@@ -11,7 +11,7 @@ The project is designed to be modular, reproducible, and research-oriented rathe
 
 ▶️ Click to watch the demo video:
 
-https://github.com/MoAmineHallam/GameTracker/releases/download/v0.1-demo/demo.mp4
+[https://github.com/MoAmineHallam/GameTracker/releases/download/v0.1-demo/GameTracketdemo.mp4]
 
 
 ## Project Overview
